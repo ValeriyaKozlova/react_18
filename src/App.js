@@ -1,7 +1,9 @@
+import Batching from './examples/Batching.js'
+
 const App = () => {
   return (
     <div>
-      WORK
+     <Batching />
     </div>
   )
 }
